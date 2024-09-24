@@ -123,7 +123,7 @@ def histograma_3():
     plt.show()
 
 # histograma_ejemplo()
-histograma_1()
+# histograma_1()
 # histograma_2()
 # histograma_3()
 
