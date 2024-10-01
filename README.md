@@ -23,3 +23,15 @@ usuarios nuevos tuvieron una transacción fraudolenta vs los usuarios que no son
 + **Histograma 3:** Histograma del tipo de transacción y el estado de la transacción fraudolenta (Cuantos estados
 de transacciones fraudolentas tuvieron las transacciones purchase y transfer)
 
++ **Histograma 4:** Histograma del monto perdido por mes por transacciones de tipo transfer con estado fraudolenta.
+
+# Ejecución
+
+Ejecuta con python o python3 el archivo `histogramas.py` de la carpeta `src/`.
+
+```bash
+python3 histogramas.py
+```
+
+Esto mostrara todos los histogramas descritos. En la carpeta `histogramas` podras encontrar todos los histogramas sin necesidad de ejecutar el programa.
+
