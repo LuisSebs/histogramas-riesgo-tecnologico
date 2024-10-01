@@ -1,5 +1,14 @@
 # Histogramas
 
+## Autores:
+
++ Arrieta Mancera Luis Sebastian (318174116)
++ Martínez Hernández Zuriel Enrique (318056423)
++ Maya Castrejón Luis Manuel (319236479)
++ Maya Castrejón Joel Miguel (417112602)
++ Moreno Castro Fernanda (319128727)
+
+
 <img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmV0eDV5cmhyNjZveHM3b2txOTI1cmVuNGZxenlrbHR5aXA1Y2F6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif' witdth='400px'/>
 
 ## Autores:
