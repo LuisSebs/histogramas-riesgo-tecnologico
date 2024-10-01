@@ -60,7 +60,7 @@ def histograma_1():
 
     # Mostramos la gráfica
     plt.legend()
-    plt.show()
+    plt.show(block=False)
 
 def histograma_2():
     """
@@ -90,7 +90,7 @@ def histograma_2():
     plt.ylabel('Cantidad de Usuarios')
 
     # Mostramos la grafica    
-    plt.show()
+    plt.show(block=False)
 
 def histograma_3():
 
@@ -120,7 +120,7 @@ def histograma_3():
     plt.ylabel('Cantidad de transacciones')
 
     # Mostramos la grafica
-    plt.show()
+    plt.show(block=False)
 
 def histograma_4():
 
@@ -150,11 +150,13 @@ def histograma_4():
     # Mostrar el histograma
     plt.show()
 
-histograma_ejemplo()
+# histograma_ejemplo()
 histograma_1()
 histograma_2()
 histograma_3()
 histograma_4()
+
+
 
 
 
