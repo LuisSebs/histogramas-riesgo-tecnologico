@@ -33,5 +33,5 @@ Ejecuta con python o python3 el archivo `histogramas.py` de la carpeta `src/`.
 python3 histogramas.py
 ```
 
-Esto mostrara todos los histogramas descritos. En la carpeta `histogramas` podras encontrar todos los histogramas sin necesidad de ejecutar el programa.
+Esto mostrara todos los histogramas descritos. En la carpeta `histogramas/` podras encontrar todos los histogramas sin necesidad de ejecutar el programa.
 
